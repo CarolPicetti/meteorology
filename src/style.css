@@ -1,0 +1,13 @@
+body {
+    background:linear-gradient(108.1deg, rgb(167, 220, 225) 11.2%, rgb(217, 239, 242) 88.9%);
+    font-family: "Poppins", sans-serif;
+}
+
+.section-info-app {
+    background-color: rgb(239, 243, 234);
+    max-width: 600px;
+    margin: 40px auto;
+    box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+    border-radius: 20px;
+    padding: 30px;
+}
